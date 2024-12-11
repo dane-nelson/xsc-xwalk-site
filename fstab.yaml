@@ -1,6 +1,4 @@
 mountpoints:
-  #/: https://drive.google.com/drive/folders/1OulF2dpGr3f_1YVlRpuzhyVuQKCHOc1k 
   /:
-    url: https://author-p131639-e1282833.adobeaemcloud.com/bin/franklin.delivery/deckreyes/xsc-xwalk-site/main
-    type: markup
-    suffix: ".html?wcmmode=disabled"
+    url: https://drive.google.com/drive/folders/16L2V0nRCWVTyYYW44dWOvumCT95ppX4D
+    
